@@ -1,2 +1,3 @@
-# 1er-Repositorio
-Repositorio de prueba M2
+Esta es una prueba de como crear un repositorio en github y clonarlo a mi escritorio local
+Franco Salvado
+
